@@ -3,3 +3,13 @@ README
 Annotations are the label 
 
 images are the dataset
+
+The Chinese for the category labeling in the image, corresponding to English:
+
+yanhuo --- smoke
+huoyan --- flame
+diaoche --- crane
+tadiao --- tower crane
+daoxianyiwu --- antenna threats
+shigongjixie --- construction machinery
+daoxian --- antenna
